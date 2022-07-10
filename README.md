@@ -1,1 +1,1 @@
-This files are solutions of tasks course name "Python for beginners"
+In this directory publicked solutions of tasks from the course "Python for beginners"
